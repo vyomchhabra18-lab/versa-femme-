@@ -4,23 +4,4 @@
     <loc>https://versafemme.vercel.app/</loc>
     <lastmod>2026-09-30</lastmod>
   </url>
-
-  <!--
-    Add every public page you want in search results, one <url> block each.
-    Update <lastmod> only when that page's content actually changes.
-    Examples (replace with your real pages, then remove the comment markers):
-
-  <url>
-    <loc>https://versafemme.vercel.app/about</loc>
-    <lastmod>2026-09-30</lastmod>
-  </url>
-  <url>
-    <loc>https://versafemme.vercel.app/products</loc>
-    <lastmod>2026-09-30</lastmod>
-  </url>
-  <url>
-    <loc>https://versafemme.vercel.app/contact</loc>
-    <lastmod>2026-09-30</lastmod>
-  </url>
-  -->
 </urlset>
